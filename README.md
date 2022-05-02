@@ -2,7 +2,7 @@
 
 This repository contains the implementation code for paper: <br>
 __Targeted Supervised Contrastive Learning for Long-Tailed Recognition__ <br>
-[Tianhong Li*](http://tianhongli.me/), Peng Cao*, [Yuan Yuan](https://yyuanad.github.io/), [Lijie Fan](http://lijiefan.me/), [Yuzhe Yang](https://www.mit.edu/~yuzhe/), [Rogerio Feris](https://www.rogerioferis.org/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), [Dina Katabi](https://people.csail.mit.edu/dina/) <br>
+[Tianhong Li*](http://tianhongli.me/), [Peng Cao*](https://people.csail.mit.edu/pengcao/), [Yuan Yuan](https://yyuanad.github.io/), [Lijie Fan](http://lijiefan.me/), [Yuzhe Yang](https://www.mit.edu/~yuzhe/), [Rogerio Feris](https://www.rogerioferis.org/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), [Dina Katabi](https://people.csail.mit.edu/dina/) <br>
 _IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2022)_ <br>
 [[Paper](https://arxiv.org/abs/2111.13998)]
 
