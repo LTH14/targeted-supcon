@@ -24,7 +24,7 @@ If you find this code or idea useful, please consider citing our work:
 ___
 <p align="center">
     <img src="teaser.jpg" width="500"> <br>
-<b> With high imbalance ratio, class centers learned by KCL exhibit poor uniformity while class centers learned by TSC are still uniformly distributed and thus TSC achieves better performance.
+<b> With high imbalance ratio, class centers learned by KCL exhibit poor uniformity while class centers learned by TSC are still uniformly distributed and thus TSC achieves better performance. </b>
 </p>
 
 
