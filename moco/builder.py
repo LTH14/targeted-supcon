@@ -190,7 +190,7 @@ class KCL(nn.Module):
         self.sep_t = sep_t
         self.tw = tw
         optimal_target = np.load('optimal_{}_{}_analytical.npy'.format(self.n_cls, dim))
-        optimal_target_order = np.load('optimal_{}_{}_label.npy'.format(self.n_cls, dim))
+        optimal_target_order = np.arange(self.n_cls)
         target_repeat = tr * np.ones(self.n_cls)
 
         optimal_target = torch.Tensor(optimal_target).float()

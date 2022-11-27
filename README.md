@@ -41,6 +41,15 @@ ___
 
 ## Usage
 Training of KCL/TSC cosists of two steps: first, the feature encoder (ResNet-50) is pretrained using KCL/TSC losses. Second, a linear classifier is added on top of the feature encoder and fine-tuned using cross-entropy loss.
+### Target generation:
+To generate targets for TSC pre-training, use 
+```
+python target_generation.py
+```
+The generated targets will be stored at optimal_{N}_{M}.npy, 
+where N is the number of classes, M is the dimension of output features.
+
+
 ### 1st stage pre-training:
 #### KCL
 ```bash
